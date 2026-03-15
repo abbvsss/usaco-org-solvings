@@ -9,7 +9,7 @@ new:
 
 run:
 	@$(CXX) $(CXXFLAGS) $(filter-out $@,$(MAKECMDGOALS)).cpp -o a.out
-	@./a.out
+	@./a.out < in.txt > out.txt 2> debug.txt
 	@rm a.out
 %:
 	@:
