@@ -1,2 +1,18 @@
-1
-1234567890123456789012345678901234567890
+3
+3 6
+banana
+nabana
+banana
+nnbaaa
+5 3
+abc
+def
+bca
+ghi
+jkl
+mno
+3 5
+abcde
+abcde
+abcde
+zzzzz
